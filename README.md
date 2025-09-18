@@ -9,6 +9,7 @@ Retrieval-Augmented Generation backend with a local LLM (LM Studio) and a vector
 - Local LLM integration via LM Studio API
 - Configurable chunking (size/overlap)
 - Health checks for all components
+<img width="1470" height="751" alt="Zrzut ekranu 2025-09-18 o 15 45 08" src="https://github.com/user-attachments/assets/2c66240a-bdf8-4c1f-b9e5-030b4d5f15a7" />
 
 ## Architecture
 - FastAPI application (app/main.py)
