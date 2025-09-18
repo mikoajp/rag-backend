@@ -1,0 +1,35 @@
+# Web framework - latest versions with Python 3.13 support
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+
+# Document processing - updated versions
+PyPDF2==3.0.1
+python-docx==1.1.2
+python-multipart==0.0.12
+aiofiles==24.1.0
+
+# Pydantic - latest with Python 3.13 support
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Vector database - latest versions
+chromadb==0.5.23
+sentence-transformers==3.3.1
+
+# LLM integration - updated versions
+openai==1.55.3
+httpx==0.28.1
+tenacity==9.0.0
+
+# Utilities - updated versions
+python-decouple==3.8
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Development - latest versions
+pytest==8.3.4
+pytest-asyncio==0.24.0
+
+# Additional dependencies that may be needed
+typing-extensions==4.12.2
+numpy==2.1.3
